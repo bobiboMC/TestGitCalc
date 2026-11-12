@@ -7,9 +7,9 @@ int main()
     int firstNumber = 4;
     int secondNumber = 3;
 
-    std::cout << "Square of " << number << " = " << square(number) << '\n';
+    std::cout << "Square of " << number << " = " << square(number) << std::endl;
     std::cout << firstNumber << " * " << secondNumber << " = "
-              << multiply(firstNumber, secondNumber) << '\n';
+              << multiply(firstNumber, secondNumber) << std::endl;
 
     return 0;
 }
