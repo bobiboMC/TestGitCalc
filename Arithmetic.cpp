@@ -2,6 +2,7 @@
 
 int square(int number)
 {
+    int y = 5;
     return number * number;
 }
 
