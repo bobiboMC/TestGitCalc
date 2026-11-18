@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="..\Arithmetic.cpp" />
     <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="..\vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Arithmetic.h" />
